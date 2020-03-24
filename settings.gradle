@@ -1,0 +1,2 @@
+include ':app', ':richpanelibrary', ':richpanel-sdk'
+rootProject.name='test3'
