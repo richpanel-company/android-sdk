@@ -1,2 +1,2 @@
-include ':app', ':richpanelibrary', ':richpanel-sdk'
+include ':app', ':richpanel-sdk'
 rootProject.name='test3'
